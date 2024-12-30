@@ -1,0 +1,21 @@
+{
+  "name": "task-5",
+  "version": "1.0.0",
+  "description": "New brach check\r git",
+  "keywords": [],
+  "homepage": "https://github.com/Dharsan-MB/Task-5#readme",
+  "bugs": {
+    "url": "https://github.com/Dharsan-MB/Task-5/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dharsan-MB/Task-5.git"
+  },
+  "license": "ISC",
+  "author": "Dharsan",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
