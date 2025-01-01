@@ -22,7 +22,7 @@ This is a ReactJS application that allows users to browse products fetched from 
 
 1. Clone this repository:  
    ```bash  
-   git clone https://github.com/your-repo-name.git  
+   git clone https://github.com/Dharsan-MB/Task-5.git 
    ```  
 
 2. Navigate to the project folder:  
@@ -99,10 +99,8 @@ src/
 ---
 
 ## Author  
-[Your Name]  
+Dharsan MB  
 
 Feel free to contribute or suggest improvements by creating issues or pull requests!  
 
 ---  
-
-Let me know if you need further customization or have other details to add!
